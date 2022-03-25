@@ -1,0 +1,25 @@
+.index-projects {
+  display: grid;
+  width: 100%;
+}
+
+.index-projects .isotope-grid {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  column-gap: 10px;
+  row-gap: 1em;
+}
+
+.last-project {
+  margin-bottom: 180px;
+}
+
+.card-img-overlay .card-title {
+  /* color: #F2BE22; */
+  text-shadow: 1px 1px #000;
+}
+
+.card-img-overlay .subtitle {
+  /* color: #F2BE22; */
+  text-shadow: 1px 1px #000;
+}
